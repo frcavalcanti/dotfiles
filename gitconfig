@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = franciscoreis85@hotmail.com
+	name = Francisco Cavalcanti
